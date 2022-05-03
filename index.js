@@ -19,7 +19,9 @@ const listCandidates = (req, res) => {
         msg: "Health check success",
       });
     }
+    console.log("")
 
+    
     const DB_FILE = path.resolve("../localdb.json");
     createFileSync(DB_FILE);
     const data = fs.readFileSync(DB_FILE, { encoding: "utf8", flag: "r" });
