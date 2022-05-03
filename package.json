@@ -1,16 +1,16 @@
 {
-    "name": "f_read_candidates",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "start": "node index.js --port=3000"
-    },
-    "type": "module",
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "express": "^4.17.3"
-    }
+  "name": "f_read_candidate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-blox-sdk": "git+https://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:x-oauth-basic@github.com/Appblox/node-blox-sdk.git"
   }
+}
