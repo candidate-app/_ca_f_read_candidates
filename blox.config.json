@@ -1,0 +1,1 @@
+{"name":"f_read_candidates","type":"function","source":{"https":"https://github.com/candidate-app/_ca_f_read_candidates","ssh":"git@github.com:candidate-app/_ca_f_read_candidates.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
