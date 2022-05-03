@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-blox-sdk": "git+https://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:x-oauth-basic@github.com/Appblox/node-blox-sdk.git"
+    "node-blox-sdk": "Appblox/node-blox-sdk.git"
   }
 }
